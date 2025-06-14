@@ -37,4 +37,6 @@ go run . kamranahmedse
 - Opened a pull request on kamranahmedse/developer-roadmap
 - Starred kamranahmedse/developer-roadmap
 
-projects page URL: https://roadmap.sh/projects/github-user-activity
+## Project Submission
+
+This project was built as part of the [Github Activity CLI project challenge on roadmap.sh](https://roadmap.sh/projects/github-user-activity).
